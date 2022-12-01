@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @0Empty0
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning MERN stack
+> 
+> Insane JS, Rust, Haskell, C++, Python Learner
+> 
+
+🦀💿
 
 <!---
 0Empty0/0Empty0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
